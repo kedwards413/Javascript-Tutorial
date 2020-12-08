@@ -94,7 +94,7 @@
         {
             "slug": "06-Constants",
             "title": "06-Constants",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Constants",
             "translations": [
                 "es",
@@ -116,7 +116,7 @@
         {
             "slug": "08-Create-a-basic-HTML",
             "title": "08-Create-a-basic-HTML",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Create-a-basic-HTML",
             "translations": [
                 "es",
@@ -127,7 +127,7 @@
         {
             "slug": "09-Calling-your-first-function",
             "title": "09-Calling-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Calling-your-first-function",
             "translations": [
                 "es",
@@ -138,7 +138,7 @@
         {
             "slug": "10-Creating-your-first-function",
             "title": "10-Creating-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Creating-your-first-function",
             "translations": [
                 "es",
@@ -149,7 +149,7 @@
         {
             "slug": "11-Create-a-new-function",
             "title": "11-Create-a-new-function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-a-new-function",
             "translations": [
                 "es",
