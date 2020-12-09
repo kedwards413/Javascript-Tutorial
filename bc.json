@@ -215,7 +215,7 @@
         {
             "slug": "17-Your-first-loop",
             "title": "17-Your-first-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Your-first-loop",
             "translations": [
                 "es",
@@ -226,7 +226,7 @@
         {
             "slug": "18-Create-a-for-loop",
             "title": "18-Create-a-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Create-a-for-loop",
             "translations": [
                 "es",
