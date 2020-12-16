@@ -105,7 +105,7 @@
         {
             "slug": "07-String-concatenation",
             "title": "07-String-concatenation",
-            "done": false,
+            "done": true,
             "path": "exercises/07-String-concatenation",
             "translations": [
                 "es",
@@ -182,7 +182,7 @@
         {
             "slug": "14-Your-first-switch",
             "title": "14-Your-first-switch",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Your-first-switch",
             "translations": [
                 "es",
@@ -237,7 +237,7 @@
         {
             "slug": "19-While-loop",
             "title": "19-While-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/19-While-loop",
             "translations": [
                 "es",
@@ -248,7 +248,7 @@
         {
             "slug": "20-Random-colors-loop",
             "title": "20-Random-colors-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Random-colors-loop",
             "translations": [
                 "es",
@@ -259,7 +259,7 @@
         {
             "slug": "21-Looping-with-FizzBuzz",
             "title": "21-Looping-with-FizzBuzz",
-            "done": false,
+            "done": true,
             "path": "exercises/21-Looping-with-FizzBuzz",
             "translations": [
                 "es",
@@ -270,7 +270,7 @@
         {
             "slug": "22-Russian-Roulette",
             "title": "22-Russian-Roulette",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Russian-Roulette",
             "translations": [
                 "es",
@@ -281,7 +281,7 @@
         {
             "slug": "23-The-Beatles",
             "title": "23-The-Beatles",
-            "done": false,
+            "done": true,
             "path": "exercises/23-The-Beatles",
             "translations": [
                 "es",
